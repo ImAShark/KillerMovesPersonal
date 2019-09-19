@@ -1,2 +1,2 @@
 # KillerMovesPersonal
-The cod I have written for the GameJam
+The code I have written for the GameJam
