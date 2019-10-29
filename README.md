@@ -17,7 +17,7 @@ This is used for the player to indicate how much health you have left, as well a
 It is for both enemy and player.
 
 -Spawner
-This enable the enemies to be able to spawn.
+This enables the enemies to be able to spawn.
 
 -UI
 With this I can save and show score and highscore, which get overwritten if the newest score is higher than the previous one.
